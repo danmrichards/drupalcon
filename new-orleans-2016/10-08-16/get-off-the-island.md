@@ -49,3 +49,10 @@ Composer in core yo!
 
 * Just like any PHP library
 * May be special cases such as a Drupl-aware db storage controller
+
+## When should I write a library?
+
+* The solution is interesting to a wider community
+* More than a single class to include
+* You want your module to be easier to upgrade
+* Functionality is not Drupal specific
