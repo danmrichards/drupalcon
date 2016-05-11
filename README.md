@@ -15,3 +15,11 @@ My session notes from DrupalCon!
     * Decoupling Drupal Modules into PHP Libraries
     * Entity Storage, the Drupal 8 Way
     * Making Drupal Fly: The Fastest Drupal Ever is Here!
+
+2. DrupalCon New Orleans 2016
+  * 10-08-16
+    * Applied Progressive Decoupling With Javascript
+    * Dependency Injection in Drupal 8
+    * Get off the Island - But build bridges back!
+    * Handling Powerball Night with Patch
+    * How Puppet Labs Runs on AWS
