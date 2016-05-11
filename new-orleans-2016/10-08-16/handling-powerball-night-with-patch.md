@@ -26,3 +26,22 @@
   * No HTTPS for customer domains
 * Option 4 - Add a CDN
   * User agents routed to geographically local CDN server
+
+## CDN Selection
+
+* Ready for top 100 levels of traffic
+* Drupal compatibility
+* Apex domain (example.com not www.example.com) HTTPS support
+* 24-hour turnaround
+* Cache tagging and invalidation support
+
+## Deployment Process
+
+1. Prepare CDN IPs to terminate HTTPS
+2. Create rules to properly handle Drupal
+  a. Pass-through for active sessions
+  b. Keying on HTTP vs HTTPS
+3. Create test domain that routes through CDN
+4. Validate anonymous, authenticated and custom functionality
+5. Reduce production DNS TTL and wait out old TTL
+6. Update productiob DNS to go through CDN
