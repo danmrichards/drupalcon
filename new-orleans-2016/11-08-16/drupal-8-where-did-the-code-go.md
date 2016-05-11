@@ -75,3 +75,13 @@
 * Use annotation based discovery by default
 * It keeps the meta-data together with the class and is suited for typical plugin types where the actual class (code) is different for each plugin
 * YAML discovery is good for a case like local tasks, where the majority use a common class, but few will implement a different one.
+
+## Cool Drupal 8 Features
+
+* Widespread use of interfaces
+* Tabs are grouped regardless of path hierarchy
+* Route name rather than path is unique
+* Multiple routes can serve the same path (HTML/JSON or GET/POST)
+* YAML as standard
+* Multiple instances of the same block
+* Each block instance has a config entity
