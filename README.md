@@ -17,9 +17,14 @@ My session notes from DrupalCon!
     * Making Drupal Fly: The Fastest Drupal Ever is Here!
 
 2. DrupalCon New Orleans 2016
-  * 10-08-16
+  * 10-05-16
     * Applied Progressive Decoupling With Javascript
     * Dependency Injection in Drupal 8
     * Get off the Island - But build bridges back!
     * Handling Powerball Night with Patch
     * How Puppet Labs Runs on AWS
+  * 11-05-16
+    * Containing Chaos with Kubernetes
+    * Drupal 8, where did the code go? From info hook to plugin
+    * Drupal.org is Changing: Content Restructure, Issue Credits, Composer and more
+    * The Future of Drupal Performance - Parallel Worlds
