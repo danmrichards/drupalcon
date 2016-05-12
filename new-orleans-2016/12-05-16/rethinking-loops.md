@@ -1,5 +1,7 @@
 # Rethinking Loops
 
+Sandbox - `composer create-project johnkary/rethinking-loops`
+
 ## FizzBuzz
 
 * Coding exercise
@@ -56,7 +58,7 @@ foreach {
 
 ## Notes
 
-Haystack\HArray - Library for pipelining map, filter and reduce functions
+Haystack\HArray - Library for pipelining map, filter and reduce functions (https://github.com/ericpoe/haystack)
 
 ```
 new Haystack\HArray($array)
