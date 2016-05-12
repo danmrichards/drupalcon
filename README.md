@@ -28,3 +28,7 @@ My session notes from DrupalCon!
     * Drupal 8, where did the code go? From info hook to plugin
     * Drupal.org is Changing: Content Restructure, Issue Credits, Composer and more
     * The Future of Drupal Performance - Parallel Worlds
+  * 12-05-16
+    * Case Study: Brainshark - Migration from Sitecore in 90 days
+    * Creating Online Stores with Commerce 2.x on Drupal 8
+    * Rethinking Loops
